@@ -72,7 +72,7 @@ class DishSearch extends React.Component {
                 })
                 this.setState({
                     dishNutritionArray: modifiedNutrientsArrayForPieChart
-                }, this.getDish) //ask pat why we need to do this again
+                }, this.getDish)
             })
     }
 
