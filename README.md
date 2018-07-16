@@ -12,3 +12,9 @@ Project was completed over the course of a one week sprint.
 ### Technologies used
 - React Native
 - Axios Api
+
+## Screenshots 
+<img src="https://i.imgur.com/JNRWPEB.jpg" width="300">
+<img src="https://i.imgur.com/I756qyr.jpg" width="300">
+<img src="https://i.imgur.com/jRte1kr.png" width="300">
+<img src="https://i.imgur.com/6OdRC1e.png" width="300">
