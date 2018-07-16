@@ -13,6 +13,10 @@ Project was completed over the course of a one week sprint.
 - React Native
 - Axios Api
 
+### Collaborators
+- Daniel Roh
+- John Chang
+
 ## Screenshots 
 <img src="https://i.imgur.com/JNRWPEB.jpg" width="300">
 <img src="https://i.imgur.com/I756qyr.jpg" width="300">
